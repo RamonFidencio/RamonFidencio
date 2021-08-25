@@ -1,6 +1,4 @@
-
-### [![](https://github.com/rajput2107/rajput2107/raw/master/Assets/Hi.gif)](https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif)  Hello world! [![](https://github.com/rajput2107/rajput2107/raw/master/Assets/Earth.gif)](https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif)
-
+### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
 
 
 ## Data Science and Data Analytics  💻
