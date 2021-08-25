@@ -18,7 +18,8 @@
 
 -   **Data Science**
 -   **SQL**
- 
+## [![](https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif)]
+ ## <img align="center" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="200px"/>
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=RamonFidencio&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
