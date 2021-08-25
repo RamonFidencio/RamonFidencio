@@ -24,11 +24,26 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajput2107&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
 </p>  
 
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=RamonFidencio&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
+</p>  
+
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
-<p align="center">
-### [](github.com/RamonFidencio/RamonFidencio/edit/main/README.md#contact-me)Contact me[![](https://github.com/rajput2107/rajput2107/raw/master/Assets/Handshake.gif)](https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif)
 
- [![Ramon's LinkedIn](https://camo.githubusercontent.com/e591fde37567a32e51fb1b98924f4df8e45199dca985500749e2a9938fa3e322/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6c696e6b6564696e2f6c696e6b6564696e2d69636f6e2e737667)](https://www.linkedin.com/in/ramonfidencio/)  [![Ramon's Emaail](https://camo.githubusercontent.com/e1fb4ce58fc1074489bdbdacd0c175ffa7cbd1182ecb3ac4cb77ea8b8271288f/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676d61696c2f676d61696c2d69636f6e2e737667)](mailto:ramonfidencio@hotmail.com)
-<p/>
+<p align="center">
+ <a href="https://www.linkedin.com/in/ramonfidencio/" target="blank">
+  <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
+ </a>
+ <a href="https://www.instagram.com/ramonfidencio/" target="blank">
+  <img align="center" alt="Pramod's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
+ </a>
+ <a href="https://medium.com/@pramodrana2107" target="blank">
+  <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
+ </a> 
+ <a href="mailto:ramonfidencio@hotmail.com" target="blank">
+  <img align="center" alt="Ramon's Email" width="30px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+ </a> 
+</p>
+
