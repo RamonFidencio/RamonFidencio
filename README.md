@@ -1,23 +1,25 @@
 ### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
 
 
-## Data Science and Data Analytics  💻
+## Data Engineering  💻
 
 -   **PYTHON  ❤️**
     -   Selenium
     -   Pandas
-    - Numpy
+    -   Numpy
+    -   PySpark
     
 - **Web Development ✅**
-
--   HTML
--  CSS 
--  Javascript  
+    -   HTML
+    -  CSS 
+    -  Javascript  
 
 ## 🌱  I’m currently learning ...
 
--   **Data Science**
--   **SQL**
+    -   **Data engineering**
+    -   **SQL**
+    -   **AZure**
+    
 
  ## <img align="center" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="200px"/>
 
