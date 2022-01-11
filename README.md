@@ -1,7 +1,7 @@
 ### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
 
 
-## Data Engineering  💻
+## Data Engineer  💻
 
 -   **PYTHON  ❤️**
     -   Selenium
